@@ -1,0 +1,132 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "astro",
+  "frontMatter.preview.host": "http://localhost:4321",
+  "frontMatter.content.publicFolder": "public",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "blog",
+      "path": "[[workspace]]/src/content/blog"
+    },
+    {
+      "title": "projects",
+      "path": "[[workspace]]/src/content/projects"
+    },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/src/content/pages"
+    }
+  ],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": "'blog'",
+      "filePrefix": null,
+      "clearEmpty": true,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "pubDate",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "heroImage",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
+          "title": "publishDate",
+          "name": "publishDate",
+          "type": "datetime"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "isFeatured",
+          "name": "isFeatured",
+          "type": "boolean"
+        },
+        {
+          "title": "seo",
+          "name": "seo",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "image",
+              "name": "image",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "src",
+                  "name": "src",
+                  "type": "string"
+                },
+                {
+                  "title": "alt",
+                  "name": "alt",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": "'projects'",
+      "filePrefix": null,
+      "clearEmpty": true,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "pubDate",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "heroImage",
+          "type": "image",
+          "isPreviewImage": true
+        }
+      ]
+    }
+  ]
+}

@@ -13,23 +13,25 @@ const featuredPosts = posts.filter(({ data }) => data.isFeatured);
 
 const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
+
+// use if you need to check collection counts - rcc
+//
+// console.log('--- Collection Debug ---');
+// console.log(`Projects found: ${posts.length}`);
+// console.log(`Blogs found: ${projects.length}`);
+// Optionally log the IDs to see exactly which files are found
+// console.log(
+// 'Post IDs:',
+// posts.map((p) => p.id)
+// );
+// console.log(
+// 'Project IDs:',
+// projects.map((p) => p.id)
+// );
 ---
 
 <BaseLayout description={siteConfig.description}>
     <Hero {...siteConfig.hero} />
-    {
-        featuredProjects?.length > 0 && (
-            <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Projects</h2>
-                {featuredProjects.map((project) => (
-                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
-                ))}
-                <div class="mt-12 sm:mt-16">
-                    <Button href="/projects">View All Projects</Button>
-                </div>
-            </div>
-        )
-    }
     {
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
@@ -39,6 +41,19 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
                 ))}
                 <div class="mt-12 sm:mt-16">
                     <Button href="/blog">View All Posts</Button>
+                </div>
+            </div>
+        )
+    }
+    {
+        featuredProjects?.length > 0 && (
+            <div class="mb-16 sm:mb-24">
+                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Projects</h2>
+                {featuredProjects.map((project) => (
+                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
+                ))}
+                <div class="mt-12 sm:mt-16">
+                    <Button href="/projects">View All Projects</Button>
                 </div>
             </div>
         )

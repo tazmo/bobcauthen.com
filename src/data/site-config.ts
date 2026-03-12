@@ -3,17 +3,17 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://bobcauthen.com',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Bob Cauthen'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Bob Cauthen',
+    subtitle: 'My Site',
+    description: 'Personal web site for Bob Cauthen',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/bob-cauthen.jpg',
+        alt: 'Picture of Bob Cauthen smiling.'
     },
     headerNavLinks: [
         {
@@ -21,12 +21,12 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
-        },
-        {
             text: 'Blog',
             href: '/blog'
+        },
+        {
+            text: 'Projects',
+            href: '/projects'
         },
         {
             text: 'Tags',
@@ -45,16 +45,12 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/bob-cauthen/'
         },
         {
             text: 'Instagram',
@@ -66,29 +62,34 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Welcome to My Corner',
+        text: "I'm an IT professional who has worn lots of hats over the years. Not just on the job, but off. \
+        My hobbies include **anything** related to Technology, Hardware and Software, Linux, Homelabs, Snow Skiing, SCUBA Diving and \
+        most recently, Photography.\n\n This site is pretty minimal in it's current state. Trust me, I have a lot to say, but I'm \
+        just starting. It will grow in time. I will try NOT to have advertising (if I can help it) and will add an RSS feed \
+        along with a way to comment on Blog Posts, once I have a few posts. \n\nFeel free to peruse my employment history on \
+        [LinkedIn](tps://www.linkedin.com/in/bob-cauthen) or follow me on [Twitter/X](http://x.com/bob_cauthen).",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'A beautiful mountain landscape covered in snow, half obscured by shadows and the other half in the sunlight.'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contact Me (currently Disabled)',
                 href: '/contact'
             }
         ]
     },
     subscribe: {
-        enabled: true,
+        enabled: false,
         title: 'Subscribe to Dante Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         form: {
             action: '#'
         }
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 4,
+    projectsPerPage: 4
 };
 
 export default siteConfig;
