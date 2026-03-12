@@ -1,16 +1,24 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
+title: Why it took so long
+slug: why-it-took-so-long
 excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
 publishDate: 'Aug 5 2023'
 tags:
   - Guide
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-1.jpg'
-    alt: A person standing at the window
+    src: '../../assets/images/hello-world.jpg'
+    alt: A person squating on a mountain top looking down at the clouds in a valley.
 ---
 
-![A person standing at the window](../../assets/images/post-1.jpg)
+![A person squating on a mountain top looking down at the clouds in a valley.](../../assets/images/hello-world.jpg)
+
+Photo by [Joshua Earle](https://unsplash.com/@joshuaearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unspash](https://unsplash.com/photos/man-sitting-on-gray-rock-while-staring-at-white-clouds-Dwheufds6kQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+
+
+The title of this  is "Sunset in Solitude".
+
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 

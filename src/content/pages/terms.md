@@ -2,12 +2,12 @@
 title: Terms of Service
 seo:
   title: Terms of Service
-  description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
+  description: My Terms of Service
 ---
 
-**Last updated on January 11, 2024**
+**Last updated on March 11, 2026**
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+These Terms of Service ("Terms") govern your access to and use of **bobcauthen.com** ("the Website") and any related services provided by **bobcauthen.com** (refered to as being managed by "myself," "we," "us," or even "our"). Please read these Terms carefully before using the Website.
 
 **1. Acceptance of Terms**
 
@@ -23,11 +23,11 @@ You agree to use the Website for lawful purposes and in a manner consistent with
 
 **4. Registration and Account**
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+Certain areas of the Website may require registration, the creation of an account, or use an external Identify Provider for authorization to post to the Website. If you register, you  agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
 
 **5. Content and Intellectual Property**
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by myself, or my licensors, and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
 
 **6. Third-Party Links**
 
@@ -35,7 +35,7 @@ The Website may contain links to third-party websites or resources. We do not en
 
 **7. Termination**
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
+We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice or explanation.
 
 **8. Disclaimer**
 
@@ -47,6 +47,6 @@ To the fullest extent permitted by law, we shall not be liable for any direct, i
 
 **10. Governing Law**
 
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
+These Terms are governed by and construed in accordance with the laws of the state of North Carolina, USA, without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of North Carolina.
 
 _Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._

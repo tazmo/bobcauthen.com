@@ -128,5 +128,6 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.panel.openOnSupportedFile": true
 }
