@@ -1,8 +1,8 @@
 ---
 title: Why it took so long
 slug: why-it-took-so-long
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+excerpt: Why has it taken me so long to publish a web site?
+publishDate: 'March 12 2026'
 tags:
   - Guide
 isFeatured: true
@@ -16,13 +16,9 @@ seo:
 
 Photo by [Joshua Earle](https://unsplash.com/@joshuaearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unspash](https://unsplash.com/photos/man-sitting-on-gray-rock-while-staring-at-white-clouds-Dwheufds6kQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 
-
 The title of this  is "Sunset in Solitude".
 
-
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
-
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+In searching for topics to write a first blog post I accidently stubled on the picture above. If you examine it closely, and think, it fits on so many levels.
 
 ## Advantages of Working from Home
 
