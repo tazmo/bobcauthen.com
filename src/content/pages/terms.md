@@ -7,7 +7,7 @@ seo:
 
 **Last updated on March 11, 2026**
 
-These Terms of Service ("Terms") govern your access to and use of **bobcauthen.com** ("the Website") and any related services provided by **bobcauthen.com** (refered to as being managed by "myself," "we," "us," or even "our"). Please read these Terms carefully before using the Website.
+These Terms of Service ("Terms") govern your access to and use of **bobcauthen.com** ("the Website") and any related services provided by **bobcauthen.com** (refered to as being managed by "myself," "we," "us," "I," or even "our"). Please read these Terms carefully before using the Website.
 
 **1. Acceptance of Terms**
 
@@ -15,7 +15,7 @@ By accessing or using the Website, you agree to be bound by these Terms and our 
 
 **2. Changes to Terms**
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+I reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
 
 **3. Use of the Website**
 
@@ -27,15 +27,15 @@ Certain areas of the Website may require registration, the creation of an accoun
 
 **5. Content and Intellectual Property**
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by myself, or my licensors, and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by myself, or my licensors, or used with permission, and is protected by copyright and other intellectual property laws. If you use, reproduce, or distribute any my content, you must cite me as a reference.
 
 **6. Third-Party Links**
 
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
+The Website will contain links to third-party websites and/or resources. I am not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
 
 **7. Termination**
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice or explanation.
+I may, at my sole discretion, terminate or suspend access to the Website at any time and for any reason, without notice or explanation.
 
 **8. Disclaimer**
 
@@ -43,7 +43,7 @@ The Website and its content are provided on an "as is" and "as available" basis.
 
 **9. Limitation of Liability**
 
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
+To the fullest extent permitted by law, I shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
 
 **10. Governing Law**
 
