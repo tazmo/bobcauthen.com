@@ -1,3 +1,5 @@
+import type { ImageMetadata } from "astro";
+
 export type ImageInput = {
     src: ImageMetadata | string;
     alt?: string;
@@ -9,6 +11,9 @@ export type Link = {
     href: string;
 };
 
+/* original line:
+image?: ImageInput;
+ */
 export type Hero = {
     title?: string;
     text?: string;

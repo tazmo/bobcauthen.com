@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # my notes - rcc
 .cmds/
+.vscode/
+.frontmatter/
+.wrangler/
