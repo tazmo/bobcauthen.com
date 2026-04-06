@@ -1,16 +1,22 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: Vault CE as an Internal Certificate Authority
+description: Treat TLS certificates like secrets in a home lab with Hashicorp Vault CE
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: ../../assets/images/project-1.jpg
     alt: Project preview
+pubDate: 2026-04-06T17:00:15.557Z
+heroImage: /src/assets/images/project-1.jpg
 ---
 
 ![Project preview](../../assets/images/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**NOTE**:These directions are for Hashcorp Vault Community Edition, not OpenBao.
+
+**OpenBao is a fork of Hashcorp Vault from roughly August of 2023.**
+
+If I have time later, I will create a separate set of directions for OpenBao, assuming there are major differences.
 
 **Project Overview:**
 EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.

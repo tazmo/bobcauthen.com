@@ -63,15 +63,15 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome',
-        text: "I have worn a lot of hats over the years. At a certain stage in life, it's inevitable. \
+        text: "I have worn a lot of hats over the years. By a certain stage in life, it's inevitable. \
         I am fortunate, many of my personal hobbies overlap with my professional life.  They include **anything** \
         related to technology, hardware and software, Linux, homelabs, Snow Skiing, SCUBA Diving and most recently, \
         Photography. \
-        \n\n This site covers that overlap. It is currently pretty minimal. While I have a lot to say, \
-        I am just starting. I will try NOT to have advertising if I can help it and will add an RSS feed, as well as a \
-        way to comment on Blog Posts. I am not interested in SEO optimization, or bots stealing my content, \
+        \n\n This site covers that overlap. It's currently pretty minimal. While I have a lot to say, \
+        you have to start somewhere. If I can help it, I will try NOT to have advertising. There will be an RSS feed, \
+        as well as a way to comment on Blog Posts. I am not interested in SEO optimization, or bots stealing my content, \
         so please don't be surprised if you are asked to verify you are human. \
-        I do have a Terms section as a CYA linked below (not that it would help). Sorry but we live in litigious times. \
+        I do have a Terms section as a CYA linked below (not that it would help). Sorry, but we live in litigious times. \
         \n\nFeel free to peruse my employment history on \
         [LinkedIn](https://www.linkedin.com/in/bob-cauthen) or follow me on [Twitter/X](http://x.com/bob_cauthen).",
         image: {
@@ -81,7 +81,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Contact Me (currently Disabled)',
-                href: '/contact'
+                href: '/'
             }
         ]
     },
